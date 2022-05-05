@@ -1,5 +1,9 @@
-### Hi there 👋
+### Welcome to my Profile λ
 
+![](https://komarev.com/ghpvc/?username=abehidek&color=5e81ac)
+---
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abehidek&langs_count=10&theme=nord&layout=compact)
 <!--
 **abehidek/abehidek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
