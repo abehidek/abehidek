@@ -1,17 +1,22 @@
-### Hi, abehidek here λ
+![](https://komarev.com/ghpvc/?username=abehidek&color=002b36)
 
-Bosch Smart Automation course apprentice, and SENAI student, currently working on limit with my side-projects, my main interests are software enginnering, computer science, FOSS and functional programming in general, currently trying to learn those.
+hi there, name is Abe Hidek Guilherme, call me by `abe`
 
-you may look into [NixOS config repository](https://github.com/abehidek/dotfiles), it's the single most commited repo in my profile.
+currently I'm both Bosch Digital Academy course and SENAI apprentice, working on random side-projects, some of my main interests are software enginnering, computer science, FOSS and functional programming in general.
+
+you may look into [NixOS config repository](https://github.com/abehidek/dotfiles), it is the repo that I have dedicated myself the most.
 
 ---
 
-### Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abehidek&langs_count=6&theme=solarized-light&layout=compact" alt="The most used programming languages on abehidek github profile"/>
 
-![](https://komarev.com/ghpvc/?username=abehidek&color=002b36)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abehidek&langs_count=10&theme=solarized-dark&layout=compact)
 <!--
+<details>
+<summary>if somehow I could help you, feel free to buy me a ☕️ or not</summary>
+</details>
+
+
+
 **abehidek/abehidek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
