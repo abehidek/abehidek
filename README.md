@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=abehidek&color=002b36)
 
-hi there, name is Abe Hidek Guilherme, call me by `abe`
+hi there, name is Abe Hidek Guilherme, call me by `abe`.
 
 currently I'm both Bosch Digital Academy course and SENAI apprentice, working on random side-projects, some of my main interests are software enginnering, computer science, FOSS and functional programming in general.
 
