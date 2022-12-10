@@ -8,7 +8,7 @@ you may look into [NixOS config repository](https://github.com/abehidek/dotfiles
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abehidek&langs_count=6&theme=solarized-light&layout=compact" alt="The most used programming languages on abehidek github profile"/>
+<img src="https://api.githubtrends.io/user/svg/abehidek/langs?time_range=one_year&compact=True&theme=dark" alt="The most used programming languages on abehidek github profile"/>
 
 <!--
 <details>
