@@ -2,14 +2,16 @@
 
 hi there, name is Abe Hidek Guilherme, call me by `abe`.
 
-currently I'm both Bosch Digital Academy course and SENAI apprentice, working on random side-projects, some of my main interests are software enginnering, computer science, FOSS and functional programming in general.
+currently interested in software enginnering, computer science, infra, FOSS and functional programming in general.
 
-you may look into [NixOS config repository](https://github.com/abehidek/dotfiles), it is the repo that I have dedicated myself the most.
+<!-- currently I'm both Bosch Digital Academy course and SENAI apprentice, working on random side-projects, some of my main interests are software enginnering, computer science, FOSS and functional programming in general. -->
+
+you may look into my [nix-config repository](https://github.com/abehidek/nix-config), it is the repo that I have dedicated myself the most.
 
 ---
 
-<img src="https://api.githubtrends.io/user/svg/abehidek/langs?time_range=one_year&compact=True&theme=dark" alt="The most used programming languages on abehidek github profile"/>
-
+<!-- <img src="https://api.githubtrends.io/user/svg/abehidek/langs?time_range=one_year&compact=True&theme=dark" alt="The most used programming languages on abehidek github profile"/> -->
+<img src="https://api.githubtrends.io/user/svg/abehidek/repos?time_range=one_year&group=other&theme=dark" />
 <!--
 <details>
 <summary>if somehow I could help you, feel free to buy me a ☕️ or not</summary>
