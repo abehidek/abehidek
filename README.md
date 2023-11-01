@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=abehidek&color=002b36)
 
-hi there, name is Abe Hidek Guilherme, call me by `abe`.
+
+**Hi there, name is Guilherme Hidek Abe, call me by `abe`.**
 
 currently interested in software enginnering, computer science, infra, FOSS and functional programming in general.
 
@@ -12,10 +12,15 @@ you may look into my [nix-config repository](https://github.com/abehidek/nix-con
 
 <!-- <img src="https://api.githubtrends.io/user/svg/abehidek/langs?time_range=one_year&compact=True&theme=dark" alt="The most used programming languages on abehidek github profile"/> -->
 <img src="https://api.githubtrends.io/user/svg/abehidek/repos?time_range=one_year&group=other&theme=dark" />
+
+![](https://komarev.com/ghpvc/?username=abehidek&color=002b36)
+
 <!--
 <details>
 <summary>if somehow I could help you, feel free to buy me a ☕️ or not</summary>
 </details>
+
+
 
 
 
