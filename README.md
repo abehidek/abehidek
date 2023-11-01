@@ -2,7 +2,7 @@
 
 **Hi there, name is Guilherme Hidek Abe, call me by `abe`.**
 
-currently interested in software enginnering, computer science, infra, FOSS and functional programming in general.
+currently interested in software enginnering, computer science, infra, self-hosting, FOSS and functional programming.
 
 <!-- currently I'm both Bosch Digital Academy course and SENAI apprentice, working on random side-projects, some of my main interests are software enginnering, computer science, FOSS and functional programming in general. -->
 
