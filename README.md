@@ -2,9 +2,10 @@
 
 **Hi there, name is Guilherme Hidek Abe, call me by `abe`.**
 
-currently interested in software enginnering, computer science, infra, self-hosting, FOSS and functional programming.
 
-<!-- currently I'm both Bosch Digital Academy course and SENAI apprentice, working on random side-projects, some of my main interests are software enginnering, computer science, FOSS and functional programming in general. -->
+Currently working as an fullstack software engineer at Bosch. Interested in software enginnering, computer science, infra, self-hosting, FOSS and functional programming.
+
+also, creator of [MonkeyDevs](https://monkeydevs.org) developer community 🐒.
 
 you may look into my [nix-config repository](https://github.com/abehidek/nix-config), it is the repo that I have dedicated myself the most.
 
