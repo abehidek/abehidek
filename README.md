@@ -8,6 +8,8 @@ also, creator of [MonkeyDevs](https://monkeydevs.org) developer community 🐒.
 
 you may look into my [nix-config repository](https://github.com/abehidek/nix-config), it is the repo that I have dedicated myself the most.
 
+![banner logo](assets/banner%20-%20x.png)
+
 ---
 **Preferred tech**
 
