@@ -2,7 +2,7 @@
 
 **Hi there visitor**, name is Abe Guilherme Hidek, call me by `abe`.
 
-Currently working as an fullstack software engineer at Bosch. Interested in software enginnering, computer science, infra, self-hosting, FOSS and functional programming.
+A generalist currently working as an fullstack software engineer at Bosch, days off experimenting things with elixir, rust and self-hosting.
 
 also, creator of [MonkeyDevs](https://monkeydevs.org) developer community 🐒.
 
